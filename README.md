@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Deep Learning.
 - 💬 Ask me about PowerShell.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am currntly learning German B2 level.
+- ⚡ Fun fact: I am currently learning German B2 level.
 
 ### 📫 How to reach me
 
