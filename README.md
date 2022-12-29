@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - LinkedIn: https://www.linkedin.com/in/saurav-bhowmick-737507102/
 - Twitter: https://twitter.com/saurav_bhowmick
 - Hashnode: https://hashnode.com/@Sap
-- Gmail: bhowmicksaurav123@gmail.com
+- Gmail: bhowmicksaurav28@gmail.com
