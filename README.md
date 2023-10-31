@@ -7,7 +7,8 @@ Hi there 👋
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as an Application Packager at Volkswagen IT Services Pvt. Ltd., Pune.
+- 📖 I'm currently studying Masters in Renewable Energy and Data Engineering in Hochschule Offenburg, Germany.
+- 🔭 I’m worked as an Application Packager at Volkswagen Group Technology Solutions Pvt. Ltd., Pune, India.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on NLP and JAVA.
 - 🤔 I’m looking for help with Deep Learning.
