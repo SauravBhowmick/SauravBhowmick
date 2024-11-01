@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 
-- LinkedIn: https://www.linkedin.com/in/saurav-bhowmick-737507102/
+- LinkedIn: https://www.linkedin.com/in/bhowmick-saurav/
 - Twitter: https://twitter.com/saurav_bhowmick
 - Hashnode: https://hashnode.com/@Sap
 - Gmail: bhowmicksaurav28@gmail.com
