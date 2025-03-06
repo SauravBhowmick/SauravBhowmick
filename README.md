@@ -7,14 +7,14 @@ Hi there 👋
 
 Here are some ideas to get you started:
 -->
-- 📖 I'm currently studying Masters in Renewable Energy and Data Engineering in Hochschule Offenburg, Germany.
+- 📖 Ihave finished studying Masters in Renewable Energy and Data Engineering in Hochschule Offenburg, Germany.
 - 🔭 I worked as an Application Packager at Volkswagen Group Technology Solutions Pvt. Ltd., Pune, India.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on NLP and Data Science.
 - 🤔 I’m looking for help with Deep Learning.
 - 💬 Ask me about PowerShell, Data Science.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I have currently finished German B2 level.
+- ⚡ Fun fact: I have currently started learning German C1 level.
 
 ### 📫 How to reach me
 
