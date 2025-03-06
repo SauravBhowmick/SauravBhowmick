@@ -7,7 +7,7 @@ Hi there 👋
 
 Here are some ideas to get you started:
 -->
-- 📖 Ihave finished studying Masters in Renewable Energy and Data Engineering in Hochschule Offenburg, Germany.
+- 📖 I have finished studying Masters in Renewable Energy and Data Engineering in Hochschule Offenburg, Germany.
 - 🔭 I worked as an Application Packager at Volkswagen Group Technology Solutions Pvt. Ltd., Pune, India.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on NLP and Data Science.
