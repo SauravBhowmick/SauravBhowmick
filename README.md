@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - LinkedIn: https://www.linkedin.com/in/bhowmick-saurav/
 - Twitter: https://twitter.com/saurav_bhowmick
-- Hashnode: https://hashnode.com/@Sap
+- Hashnode: https://hashnode.com/@SauravBhowmick
 - HackerRank: https://www.hackerrank.com/profile/Saurav_b
 - LeetCode: https://leetcode.com/u/SauravBhowmick/
 - Kaggle: https://www.kaggle.com/bhowmicksaurav/
