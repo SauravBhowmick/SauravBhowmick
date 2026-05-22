@@ -1,4 +1,4 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/51038890/131240801-9d56151b-334d-44ea-9e10-187f9c7ae85f.gif)
+<img width="500" height="500" alt="GIF_" src="https://github.com/user-attachments/assets/90054b05-2f61-4319-8134-508605fb495f" />
 
 Hi there 👋
 
