@@ -1,4 +1,5 @@
-<img width="500" height="500" alt="GIF_" src="https://github.com/user-attachments/assets/90054b05-2f61-4319-8134-508605fb495f" />
+<img width="500" height="500" alt="header" src="https://github.com/user-attachments/assets/73b5e679-32cd-4a81-9e55-34c6479d30f4" />
+
 
 Hi there 👋
 
