@@ -35,5 +35,3 @@ Here are some ideas to get you started:
 - LeetCode: https://leetcode.com/u/SauravBhowmick/
 - Kaggle: https://www.kaggle.com/bhowmicksaurav/
 - Gmail: bhowmicksaurav28@gmail.com
-
-<iframe src="https://github.com/sponsors/SauravBhowmick/card" title="Sponsor SauravBhowmick" height="225" width="600" style="border: 0;"></iframe>
